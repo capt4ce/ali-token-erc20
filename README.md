@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Sample project for creating custom token on top of ethereum using ERC20 standard.
+![demo](assets/demo.gif)
 
 ## How to run the project
 
